@@ -1,0 +1,37 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+
+# npm
+out
+node_modules
+*.log
+logs/*.log
+logs/*bll*
+*.gz
+nodemon.json
+node_modules
+.tmp
+*.seed
+*.log
+*.out
+*.pid
+npm-debug.log
+
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+.node_history
